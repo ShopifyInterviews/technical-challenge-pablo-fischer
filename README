@@ -1,0 +1,7 @@
+comamnd line app that prompts for comamnds and moves a rover through a 2d plane,
+robot should point in the direction and be able to face different directions and
+move to the direction it is facing.
+
+Libraries:
+ - click
+
